@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">[NoufAlobaidi]-midT1</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="insertbttn">INSERT</string>
+    <string name="goto2">Go to Act2</string>
+    <string name="goto3">Go to Act3</string>
+    <string name="splashtext">Welcome to the project of Nouf Alobaidi, 191014</string>
+    <string name="printbttn">PRINT</string>
+    <string name="goto1">Go to Act1</string>
+    <string name="deletebttn">DELETE</string>
+    <string name="search">search</string>
+
+
+</resources>
